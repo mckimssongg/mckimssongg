@@ -5,7 +5,7 @@
 
 ## 🌟 About Me  
 
-I am a **fullstack developer with over 4 years of experience**, specializing in creating innovative technical solutions for finance, economics, and enterprise sectors. I excel at solving complex problems by integrating data analysis, qualitative research, and strategic thinking using technologies like **Node.js**, **Python**, **.NET**, and **SQL Server**. I am passionate about delivering scalable, high-quality products with excellent user experiences (UX).  
+I am a **Analyst programmer with over 4 years of experience**, specializing in creating innovative technical solutions for finance, economics, and enterprise sectors. I excel at solving complex problems by integrating data analysis, qualitative research, and strategic thinking using technologies like **Node.js**, **Python**, **.NET**, and **SQL Server**. I am passionate about delivering scalable, high-quality products with excellent user experiences (UX).  
 
 ---
 
@@ -37,7 +37,7 @@ I am a **fullstack developer with over 4 years of experience**, specializing in 
 ## 🗣️ Languages  
 
 - Spanish (Native)  
-- English (Basic A2)  
+- English (Basic B1)  
 
 ---
 

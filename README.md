@@ -1,8 +1,8 @@
-# 👨‍💻 Jeremie Mckimsson García González  
+# Jeremie Mckimsson García González  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mckimsson-garcia)  
 
 ---
-## 💻 Technical Skills  
+## Technical Skills  
 
 | **Programming Languages** | **Frontend** | **Backend** | **Cloud Platforms** | **Databases** |
 |---------------------------|--------------|-------------|---------------------|---------------|
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tools and Technologies  
+## Tools and Technologies  
 - **Automation**: Power Automate, Power BI, Power Apps  
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 - **Version Control**: Git, GitHub, GitLab  
@@ -27,14 +27,7 @@
   
 ---
 
-## 🗣️ Languages  
-
-- Spanish (Native)  
-- English (Basic B1)  
-
----
-
-## 📩 Contact  
+## Contact  
 
 If you'd like to collaborate or have any questions, feel free to reach out:  
 📧 [soymckimsson286@gmail.com](mailto:soymckimsson286@gmail.com)  
@@ -42,7 +35,7 @@ If you'd like to collaborate or have any questions, feel free to reach out:
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
 Here are some of my favorite projects:  
 
